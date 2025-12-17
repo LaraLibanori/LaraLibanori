@@ -118,12 +118,12 @@ My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated
   alt="GitHub Stats" 
   height="200" 
   style="margin-bottom: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=LaraLZ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats.vercel.app/api?username=LaraLibanori&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 <img 
   alt="Top Languages" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraLZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraLibanori&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </div>
 
