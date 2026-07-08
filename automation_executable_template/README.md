@@ -43,6 +43,22 @@ powershell -ExecutionPolicy Bypass -File .\scripts\package_release.ps1 -Version 
 
 Saída esperada: `release/TaskAutomationApp-v1.0.0.zip`
 
+## Compartilhar lógica sem enviar código-fonte
+
+Gere um formulário preenchível:
+
+```powershell
+python .\scripts\generate_logic_intake.py
+```
+
+Ou defina o caminho de saída:
+
+```powershell
+python .\scripts\generate_logic_intake.py --output C:\temp\logic_intake.md
+```
+
+Template base: `templates/logic_intake_template.md`
+
 ## Notas importantes de navegador
 
 - **Selenium**: use Selenium Manager (sem `chromedriver.exe` manual).
