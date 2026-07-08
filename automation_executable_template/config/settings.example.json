@@ -1,0 +1,20 @@
+{
+  "environment": "corp",
+  "timeouts": {
+    "global_seconds": 120,
+    "page_seconds": 30
+  },
+  "retry": {
+    "attempts": 3,
+    "delay_seconds": 2
+  },
+  "browser": {
+    "engine": "selenium",
+    "headless": false
+  },
+  "paths": {
+    "downloads": "downloads",
+    "uploads": "uploads",
+    "logs": "logs"
+  }
+}
