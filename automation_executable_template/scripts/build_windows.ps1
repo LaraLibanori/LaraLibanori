@@ -1,3 +1,8 @@
+param(
+    [Parameter(Mandatory = $false)]
+    [string]$BuildEpoch
+)
+
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
@@ -8,6 +13,13 @@ if (-not (Get-Command python -ErrorAction SilentlyContinue)) {
     throw "Python não encontrado no PATH."
 }
 
+if ([string]::IsNullOrWhiteSpace($BuildEpoch)) {
+    throw "Informe -BuildEpoch (Unix epoch) para build reproduzível."
+}
+
+$env:PYTHONHASHSEED = "0"
+$env:SOURCE_DATE_EPOCH = $BuildEpoch
+
 python -m pip install --upgrade pip
 python -m pip install -r .\requirements.lock
 
@@ -15,4 +27,4 @@ python -m pip install -r .\requirements.lock
 # python -m playwright install chromium
 
 python -m PyInstaller --clean .\build.spec
-Write-Host "Build concluído em .\dist\TaskAutomationApp"
+Write-Host "Build concluído em .\dist\TaskAutomationApp com SOURCE_DATE_EPOCH=$BuildEpoch"

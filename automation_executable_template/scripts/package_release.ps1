@@ -24,3 +24,8 @@ if (Test-Path $ZipPath) {
 
 Compress-Archive -Path $DistFolder\* -DestinationPath $ZipPath -Force
 Write-Host "Pacote gerado: $ZipPath"
+
+$Checksum = Get-FileHash -Path $ZipPath -Algorithm SHA256
+$ChecksumPath = "$ZipPath.sha256"
+$Checksum.Hash | Out-File -FilePath $ChecksumPath -Encoding ascii -NoNewline
+Write-Host "Checksum SHA256: $ChecksumPath"
