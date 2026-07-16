@@ -11,45 +11,63 @@ My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated
 
 ## 🧭 Roadmap: tornar-se especialista em desenvolvimento de software e projetos
 
-### 1) Fundamentos de computação
-- Lógica, estruturas de dados, algoritmos e análise de complexidade.
-- Sistemas operacionais, redes, HTTP e concorrência (processos/threads).
-- Banco de dados: SQL, modelagem, índices e transações.
+Trilha completa para estudar com **2 horas por dia (14h/semana)** durante **12 meses**.
 
-### 2) Python profissional
-- Sintaxe avançada, tipagem, OOP, exceções, context managers, iteradores/geradores.
-- Ambientes e dependências: `venv`, `pip`, `pyproject.toml`, empacotamento.
-- Qualidade: testes unitários/integração, logging, profiling e debug.
+### ⏱️ Rotina fixa (2h/dia)
+- **1h10** curso/aula.
+- **40min** prática de código.
+- **10min** revisão e anotações.
+- **Sábado (2h):** mini projeto.
+- **Domingo (2h):** revisão da semana + planejamento.
 
-### 3) Engenharia de software
-- Git/GitHub: branching, Pull Request e code review.
-- Clean code, SOLID e padrões de projeto.
-- Arquitetura: camadas, DDD (base), microsserviços quando necessário.
+### Fase 1 (Meses 1–2): Base forte
+- Lógica, algoritmos, Python core e Git.
+- **Cursos:** CS50x (edX) + Curso em Vídeo Python.
+- **Livros:** *Entendendo Algoritmos* (Bhargava), *Python Crash Course*.
+- **Projeto:** automação simples + CLI.
 
-### 4) Backend e APIs
-- REST, autenticação/autorização, validação de entrada e segurança.
-- Frameworks Python: FastAPI, Django e Flask.
-- Escalabilidade: filas, cache, tarefas assíncronas e observabilidade.
+### Fase 2 (Meses 3–4): Backend inicial
+- SQL, modelagem e API REST com FastAPI/Flask.
+- **Cursos:** SQL (Khan Academy/DataCamp) + FastAPI (freeCodeCamp/Udemy).
+- **Livros:** *Use a Cabeça SQL* (ou equivalente), *Arquitetura Limpa*.
+- **Projeto:** API CRUD com autenticação e PostgreSQL.
 
-### 5) DevOps e entrega contínua
-- Linux, Docker, CI/CD e versionamento semântico.
-- Cloud (AWS/Azure/GCP): deploy, monitoramento e custo/performance.
-- Infraestrutura como código (conceitos).
+### Fase 3 (Meses 5–6): Engenharia de software
+- Testes, clean code, SOLID e design patterns.
+- **Cursos:** Testes em Python (pytest) + Git/GitHub avançado.
+- **Livros:** *Código Limpo*, *Refatoração* (Fowler).
+- **Projeto:** refatoração da API com testes unitários e integração.
 
-### 6) Segurança e qualidade
-- OWASP Top 10, gestão de segredos e criptografia básica.
-- SAST/DAST e revisão de dependências.
-- Resiliência: tolerância a falhas e idempotência.
+### Fase 4 (Meses 7–8): DevOps e entrega
+- Docker, CI/CD, Linux e observabilidade.
+- **Cursos:** Docker + GitHub Actions.
+- **Livro:** *The DevOps Handbook*.
+- **Projeto:** app containerizado + pipeline CI com testes automáticos.
 
-### 7) Gestão de projetos e produto
-- Requisitos, escopo, priorização e gestão de riscos.
-- Agile/Scrum/Kanban e boas práticas de estimativa.
-- Comunicação técnica, documentação e liderança.
+### Fase 5 (Meses 9–10): Segurança e arquitetura
+- OWASP Top 10, autenticação segura, filas/cache e arquitetura.
+- **Cursos:** OWASP basics + arquitetura de sistemas.
+- **Livros:** *Web Application Security*, *Designing Data-Intensive Applications*.
+- **Projeto:** hardening da API + Redis + fila assíncrona.
 
-### 8) Portfólio para acelerar senioridade
-- Construir de 3 a 5 projetos completos (API, banco, testes, CI/CD e deploy).
-- Acompanhar métricas de qualidade (cobertura, latência, erros).
-- Publicar estudos de caso explicando decisões arquiteturais.
+### Fase 6 (Meses 11–12): Portfólio e senioridade
+- Documentação, métricas, deploy cloud e estudos de caso.
+- **Cursos:** AWS Cloud Practitioner (ou Azure/GCP básico).
+- **Livro:** *The Pragmatic Programmer*.
+- **Projeto final:** sistema completo (API + banco + testes + CI/CD + deploy).
+
+### 🗂️ Lista mínima de projetos (portfólio)
+1. API de gestão (CRUD + auth + PostgreSQL).
+2. Automação Python (coleta e relatórios).
+3. Sistema com fila/cache (Redis/Celery).
+4. Deploy cloud com monitoramento.
+5. Projeto colaborativo com PR/review.
+
+### ✅ Meta de progresso mensal
+- 1 curso concluído.
+- 1 livro em andamento (capítulos-chave).
+- 1 projeto evoluído com commit semanal.
+- README e documentação técnica atualizados.
 
 ## 🐍 Como o Python encontra bibliotecas (aprofundamento)
 
@@ -185,6 +203,5 @@ Além de `sys.path`, dominar os seguintes pontos fecha o entendimento do sistema
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_laralibanori)
 [![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/laralibanori/badges)
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@laralibanori)
-
 
 
