@@ -1,0 +1,57 @@
+TRILHA DE ESTUDO COMPLETA (12 MESES) - 2 HORAS POR DIA
+
+Rotina fixa (2h/dia)
+- 1h10: curso/aula
+- 40min: prática de código
+- 10min: revisão/anotações
+- Sábado (2h): mini projeto
+- Domingo (2h): revisão + planejamento
+
+Fase 1 (Meses 1-2): Base forte
+- Conteúdo: lógica, algoritmos, Python core, Git
+- Cursos: CS50x (edX) + Curso em Vídeo Python
+- Livros: Entendendo Algoritmos (Bhargava), Python Crash Course
+- Projeto: automação simples + CLI
+
+Fase 2 (Meses 3-4): Backend inicial
+- Conteúdo: SQL, modelagem, API REST com FastAPI/Flask
+- Cursos: SQL (Khan Academy/DataCamp) + FastAPI (freeCodeCamp/Udemy)
+- Livros: Use a Cabeça SQL (ou equivalente), Arquitetura Limpa
+- Projeto: API CRUD com autenticação e PostgreSQL
+
+Fase 3 (Meses 5-6): Engenharia de software
+- Conteúdo: testes, clean code, SOLID, design patterns
+- Cursos: Testes em Python (pytest) + Git/GitHub avançado
+- Livros: Código Limpo, Refatoração (Fowler)
+- Projeto: refatorar API com testes unitários + integração
+
+Fase 4 (Meses 7-8): DevOps e entrega
+- Conteúdo: Docker, CI/CD, Linux, observabilidade
+- Cursos: Docker + GitHub Actions
+- Livro: The DevOps Handbook
+- Projeto: containerizar app + pipeline CI com testes automáticos
+
+Fase 5 (Meses 9-10): Segurança e arquitetura
+- Conteúdo: OWASP Top 10, autenticação segura, filas/cache, arquitetura
+- Cursos: OWASP basics + arquitetura de sistemas
+- Livros: Web Application Security, Designing Data-Intensive Applications
+- Projeto: hardening da API + Redis + fila assíncrona
+
+Fase 6 (Meses 11-12): Portfólio e senioridade
+- Conteúdo: documentação, métricas, deploy cloud, estudos de caso
+- Cursos: AWS Cloud Practitioner (ou Azure/GCP básico)
+- Livro: The Pragmatic Programmer
+- Projeto final: sistema completo (API + banco + testes + CI/CD + deploy)
+
+Lista mínima de projetos (portfólio)
+1. API de gestão (CRUD + auth + PostgreSQL)
+2. Automação Python (coleta/relatórios)
+3. Sistema com fila/cache (Redis/Celery)
+4. Deploy cloud com monitoramento
+5. Projeto colaborativo com PR/review
+
+Meta de progresso mensal
+- 1 curso concluído
+- 1 livro em andamento (capítulos-chave)
+- 1 projeto evoluído com commit semanal
+- README + documentação técnica atualizados
