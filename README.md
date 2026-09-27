@@ -1,138 +1,65 @@
-## Hi Devs 👋
-# 👩🏻‍💻 Lara Libanori
+<h1 align="center">Oi, eu sou a Lara Libanori 👩🏻‍💻 </h1>
+<h3 align="center">Desenvolvedora | Developer · São Paulo, Brasil</h3>
 
-**`Developer | Desenvolvedora`**
+<p align="center">
+  <a href="https://www.linkedin.com/in/laralibanori/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/lara.libanori"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@laralibanori"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.credly.com/users/laralibanori/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+  <a href="https://g.dev/laralibanori"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"/></a>
+</p>
 
-## BR Portugues |
-Meu nome é Lara Libanori, tenho 23 anos e sou de São Paulo. Atualmente, curso engenharia da computação e sou formada em TI. Sou apaixonada por tecnologia, física, programação e por compartilhar esse conhecimento.
+---
+### 🇧🇷 Sobre mim
 
-## EN English |
-My name is Lara Libanori, I'm 23 years old, and I'm from São Paulo. I graduated from ETEC Lauro Gomes with a technical degree in electronics. I'm currently studying computer engineering at UNIVESP and have a degree in IT. I'm passionate about technology, physics, programming, and sharing this knowledge.
+Tenho 25 anos e sou de São Paulo. Sou técnica em Eletrônica pela **ETEC Lauro Gomes**, formada em **TI**, em **Engenharia de Computação na UNIVESP** e atualmente curso **Pós Graduação na USP**. Sou apaixonada por tecnologia, física e programação — e por compartilhar esse conhecimento com outras pessoas.
 
-### 💡 Interesses & Hobbies
+### 🇺🇸 About me
 
-- ⚔️ 🔵 **Star Wars**: Que a força esteja com você!
-- 🎮 **Jogos**: Gosto de me divertir e também de aprender com games.
-- 📚 **Livros & Desenvolvimento Pessoal**: Leitura transforma!
-- 🧠 **Crescimento pessoal**: Sempre buscando evoluir 
-- 🏋️ **Academia**: Corpo são, mente sã.
-- ⛪ **Igreja**: Minha fé é parte importante da minha vida.
-- 🍽️ **Brunch e Gastronomia**: Amo sair para comer — especialmente brasileira, italiana, francesa e japonesa!
-- ✨ **Outras coisas legais**: Sempre em busca de experiências significativas.
+I'm 25 years old and from São Paulo, Brazil. I hold a technical degree in Electronics from **ETEC Lauro Gomes**, a degree in **IT**, and I'm currently studying **Computer Engineering at UNIVESP**. I'm passionate about technology, physics and programming — and about sharing that knowledge with others.
 
-## 💻 Tecnologias e ferramentas | Technologies & Tools
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-</div>
+---
+### 🛠️ Tecnologias & Ferramentas | Tech Stack
 
-### 🤖 Linguagens e Tecnologias | Languages and Technologies
-<div
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Java" 
-  width="30px" 
-  style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
-<img 
-  align="left" 
-  alt="Spring" 
-  width="30px" 
-  style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Bash" 
-  width="30px" 
-  style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-  align="left" 
-  alt="Git" 
-  width="30px" 
-  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,spring&perline=7" alt="Linguagens e frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,git,github,npm,bash&perline=7" alt="Bancos de dados e ferramentas"/>
+</p>
+
+---
+ ### 🏅 Certificações | Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/users/laralibanori/badges"><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"/></a>
+  <a href="https://www.credly.com/users/laralibanori/badges"><img src="https://img.shields.io/badge/Python%20Essentials%201%20·%20Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Python Essentials 1 (Cisco)"/></a>
+  <a href="https://g.dev/laralibanori"><img src="https://img.shields.io/badge/IA%20Generativa%20·%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="IA Generativa (Google)"/></a>
+  <a href="https://g.dev/laralibanori"><img src="https://img.shields.io/badge/Data%20Analytics%20·%20Google-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Data Analytics (Google)"/></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Python%20·%20SENAI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (SENAI)"/>
+  <img src="https://img.shields.io/badge/Big%20Data%20%26%20Analytics%20·%20SENAI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Big Data e Analytics com Python (SENAI)"/>
+  <img src="https://img.shields.io/badge/Gestão%20de%20Projetos%20·%20Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Gestão de Projetos (Coursera)"/>
+  <img src="https://img.shields.io/badge/Desenv.%20de%20Software%20·%20Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Desenvolvimento de Software (Coursera)"/>
+</p>
+
+---
+### 📊 Estatísticas e Atividade | Stats and Activity
+
+  <!-- GitHub Readme Streak Stats - https://github.com/laralibanori/github-readme-streak-stats -->
+ <p align="center">
+    <a href="https://github.com/laralibanori/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="laralianori's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=laralibanori&theme=violet-dark&hide_border=true&short_numbers=true"/>
+  </p>
 
 
-<img 
-  align="left" 
-  alt="GitHub" 
-  width="30px" 
-  style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
+### 💡 Além do código | Beyond code
 
-</div>
-<br> 
-
-
-### 📊 Estatísticas | Statistics
-<div align="center">
-<img 
-  alt="GitHub Stats" 
-  height="200" 
-  style="margin-bottom: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=LaraLibanori&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraLibanori&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-</div>
-
-## 🎯 Me siga nas redes sociais | Follow me in my social networks 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laralibanori/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_laralibanori)
-[![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/laralibanori/badges)
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@laralibanori)
-
-
+| | |
+|---|---|
+| ⚔️ **Star Wars** — que a Força esteja com você! | 🎮 **Games** — diversão e aprendizado |
+| 📚 **Livros** — leitura transforma | 🧠 **Crescimento pessoal** — sempre evoluindo |
+| 🏋️ **Academia** — corpo são, mente sã | ⛪ **Fé** — parte importante da minha vida |
+| 🍽️ **Gastronomia** — brunch, cozinha brasileira, italiana, francesa e japonesa | ✨ **Experiências** — sempre em busca de momentos significativos |
 
 
