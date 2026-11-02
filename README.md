@@ -12,11 +12,15 @@
 ---
 ### 🇧🇷 Sobre mim
 
-Tenho 25 anos e sou de São Paulo. Sou técnica em Eletrônica pela **ETEC Lauro Gomes**, formada em **TI**, em **Engenharia de Computação na UNIVESP** e atualmente curso **Pós Graduação na USP**. Sou apaixonada por tecnologia, física e programação — e por compartilhar esse conhecimento com outras pessoas.
+Sou de São Paulo, técnica em Eletrônica pela **ETEC Lauro Gomes**, formada em **Tecnologia da Informação** e graduanda em **Engenharia de Computação pela UNIVESP**. Atualmente também curso o **MBA em Data Science, Inteligência Artificial e Analytics pela USP/Esalq**.
+
+Tenho interesse em **dados, cloud e desenvolvimento de software**, e gosto de transformar dados em informação útil para decisões. Sou apaixonada por tecnologia, física e programação, e por compartilhar esse conhecimento com outras pessoas.
 
 ### 🇺🇸 About me
 
-I'm 25 years old and from São Paulo, Brazil. I hold a technical degree in Electronics from **ETEC Lauro Gomes**, a degree in **IT**, and I'm currently studying **Computer Engineering at UNIVESP**. I'm passionate about technology, physics and programming — and about sharing that knowledge with others.
+I'm from São Paulo, Brazil. I hold a technical degree in Electronics from **ETEC Lauro Gomes** and a degree in **Information Technology**, and I'm currently studying **Computer Engineering at UNIVESP**. I'm also enrolled in the **MBA in Data Science, Artificial Intelligence and Analytics at the University of São Paulo (USP)**.
+
+I'm interested in **data, cloud and software development**, and I enjoy turning data into useful information for decision-making. I'm passionate about technology, physics and programming, and about sharing that knowledge with others.
 
 ---
 ### 🛠️ Tecnologias & Ferramentas | Tech Stack
